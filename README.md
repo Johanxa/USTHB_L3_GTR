@@ -17,7 +17,7 @@ Lien de téléchargement Ubuntu Budgie : https://ubuntubudgie.org/downloads/
 3. Chapitre 3 : conception et implémentation de la solution.
 
 Le but de notre projet était l’étude d’une solution basée sur un pare-feu afin de sécuriser le réseau d’une nouvelle direction régionale.  
-Pour ce faire, nous avons évalué différentes solutions propriétaires et Open Source afin de réaliser un modèle d’implémentation réaliste et peu coûteux. N'ayant pas de ressource notre simulation s'est appuyée sur notre réseau local domestique. Voici une image qui englobe l'architecture générale :   
+Pour ce faire, nous avons évalué différentes solutions propriétaires et Open Source afin de réaliser un modèle d’implémentation réaliste et peu coûteux. N'ayant pas de ressources notre simulation s'est appuyée sur notre réseau local domestique. Voici une image qui englobe l'architecture générale :   
 ![image](https://user-images.githubusercontent.com/88862381/185247457-60d5fc7a-3476-47d5-8843-9b8f6581fa5a.png)
 
 
