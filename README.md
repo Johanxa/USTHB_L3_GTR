@@ -5,10 +5,10 @@ Le thème de mon projet était : __L'étude et le déploiement d'un pare-feu dan
 Afin d'expliquer au mieux les étapes de création de notre solution, j'ajouterai également les liens pour le téléchargement de toutes les ressources utilisées.
 
 # Ressources : 
-Lien de téléchargement du pare-feu OPNsense : https://opnsense.org/download/
-Lien de téléchargement d'Odoo : https://bitnami.com/stack/odoo
-Explication du module Zenarmor : https://www.sunnyvalley.io/sensei
-Lien de téléchargement Ubuntu Budgie : https://ubuntubudgie.org/downloads/
+Lien de téléchargement du pare-feu OPNsense : https://opnsense.org/download/  
+Lien de téléchargement d'Odoo : https://bitnami.com/stack/odoo  
+Explication du module Zenarmor : https://www.sunnyvalley.io/sensei  
+Lien de téléchargement Ubuntu Budgie : https://ubuntubudgie.org/downloads/  
 
 
 ## Plan
