@@ -4,14 +4,14 @@ Ce répertoire est dédié à mon mémoire de fin de cycle licence génie des t�
 Le thème de mon projet était : __L'étude et le déploiement d'un pare-feu dans une entreprise.__
 Afin d'expliquer au mieux les étapes de création de notre solution, j'ajouterai également les liens pour le téléchargement de toutes les ressources utilisées.
 
-##titre Ressources : 
+#Ressources : 
 Lien de téléchargement du pare-feu OPNsense : https://opnsense.org/download/
 Lien de téléchargement d'Odoo : https://bitnami.com/stack/odoo
 Explication du module Zenarmor : https://www.sunnyvalley.io/sensei
 Lien de téléchargement Ubuntu Budgie : https://ubuntubudgie.org/downloads/
 
 
-#titre Plan
+##Plan
 1. Chapitre 1 : Généralités sur la cybersécurité
 2. Chapitre 2 : Notions théoriques sur les réseaux et la cybersécurité
 3. Chapitre 3 : conception et implémentation de la solution.
