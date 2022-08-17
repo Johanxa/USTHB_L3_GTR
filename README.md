@@ -1,7 +1,7 @@
 # USTHB_L3_GTR
 Ce répertoire est dédié à mon mémoire de fin de cycle licence génie des télécommunications et réseaux.
 
-Le thème de mon projet était : __L'étude et le déploiement d'un pare-feu dans une entreprise.__
+Le thème de mon projet était : __L'étude et le déploiement d'un pare-feu dans une entreprise.__  
 Afin d'expliquer au mieux les étapes de création de notre solution, j'ajouterai également les liens pour le téléchargement de toutes les ressources utilisées.
 
 # Ressources : 
